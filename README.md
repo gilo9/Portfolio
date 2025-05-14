@@ -18,7 +18,7 @@ I'm a passionate software developer specializing in blockchain technologies, sec
 
 ## 🌟 Projects
 
-### 🔐 [Secure Data-Sharing Platform](https://github.com/gilo9/Portfolio/main/CO3099Assignment)
+### 🔐 [Secure Data-Sharing Platform](https://github.com/gilo9/Portfolio/tree/main/CO3099Assignment)
 
 A blockchain-based platform for secure file storage and sharing, leveraging ERC-721 tokens for authentication and access control.
 
