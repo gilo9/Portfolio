@@ -49,7 +49,7 @@ Project implementing secure communication using RSA encryption and key managemen
 
 ## 📫 Connect With Me
 
-* [LinkedIn](https://www.linkedin.com)
+* [LinkedIn](www.linkedin.com/in/giles-mwa-411910243)
 * [Email](mailto:gilesmwa@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration or discussions!
