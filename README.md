@@ -4,9 +4,9 @@ I'm a passionate software developer specializing in blockchain technologies, sec
 
 ## 🚀 About Me
 
-* 🎓 Currently pursuing a degree in Computer Science with hands-on experience in blockchain, Flutter development, and RESTful APIs.
+* 🎓 2nd Class Computer Science Graduate with hands-on experience in Blockchain Technologies, Flutter IOS/Android development, RESTful APIs, Client/Server Networking and.
 * 💼 Aspiring Tech Consultant focused on delivering innovative and secure tech solutions.
-* 📚 Constantly learning and exploring new technologies like Ethereum, Solidity, and AI-driven solutions.
+* 📚 Constantly learning and exploring new technologies like Ethereum, Solidity, AI-driven solutions and Cloud technologies.
 
 ## 💻 Tech Stack
 
@@ -22,9 +22,9 @@ I'm a passionate software developer specializing in blockchain technologies, sec
 
 A blockchain-based platform for secure file storage and sharing, leveraging ERC-721 tokens for authentication and access control.
 
-* **Technologies:** Solidity, Ethereum, Hardhat
+* **Technologies:** Solidity, Ethereum, Hardhat, React
 
-### 📱 Time-based QR Token App
+### 📱 Time-based Authentication 
 
 Mobile app developed in Flutter to generate QR tokens for limited-time hardware access.
 
@@ -36,7 +36,7 @@ AI chatbot featuring CNN-based image classification for football teams and playe
 
 * **Technologies:** Python, TensorFlow, CNNs
 
-### 🔑 RSA Encryption and Key Management
+### 🔑 Client/Server Networking with Crytographic encryption
 
 Project implementing secure communication using RSA encryption and key management systems for client-server interactions.
 
@@ -46,6 +46,8 @@ Project implementing secure communication using RSA encryption and key managemen
 
 * Enhancing my blockchain-based platform with additional security and usability features.
 * Exploring decentralized applications (DApps) and smart contract optimization techniques.
+* Understand AI and AI driven solutions
+* Implementation and use cases of cloud technolgies wihtin business
 
 ## 📫 Connect With Me
 
