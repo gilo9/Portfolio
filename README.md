@@ -36,7 +36,7 @@ AI chatbot featuring CNN-based image classification for football teams and playe
 
 * **Technologies:** Python, TensorFlow, CNNs
 
-### 🔑 Client/Server Networking with Crytographic encryption
+### 🔑 [Client/Server Networking with Crytographic encryption](https://github.com/gilo9/COMP30231CW)
 
 Project implementing secure communication using RSA encryption and key management systems for client-server interactions.
 
